@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel><title>Lost In Code - lbsong</title><link>/</link><description></description><lastBuildDate>Thu, 14 Feb 2019 19:18:00 +0800</lastBuildDate><item><title>Run TypeScript in VS Code</title><link>/run-typescript-in-vs-code.html</link><description>&lt;p&gt;To run TypeScript file in VS Code, you have to &lt;/p&gt;
-&lt;ol&gt;
+&lt;ul&gt;
 &lt;li&gt;Install the extension &lt;a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner"&gt;Code Runner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Install modules locally:&lt;/li&gt;
-&lt;li&gt;typescript: npm install --save-dev typescript&lt;/li&gt;
-&lt;li&gt;typescript-tools: npm install --save-dev typescript-tools&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Install modules locally:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;typescript: &lt;strong&gt;npm install --save-dev typescript&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;typescript-tools: &lt;strong&gt;npm install --save-dev typescript-tools&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Now, you can run .ts file in VS Code&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">lbsong</dc:creator><pubDate>Thu, 14 Feb 2019 19:18:00 +0800</pubDate><guid isPermaLink="false">tag:None,2019-02-14:/run-typescript-in-vs-code.html</guid><category>typescript</category></item></channel></rss>
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now, you can press "CTRL-ALT-N" and run .ts file in VS Code&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">lbsong</dc:creator><pubDate>Thu, 14 Feb 2019 19:18:00 +0800</pubDate><guid isPermaLink="false">tag:None,2019-02-14:/run-typescript-in-vs-code.html</guid><category>typescript</category></item></channel></rss>
