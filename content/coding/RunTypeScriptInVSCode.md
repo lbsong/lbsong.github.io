@@ -4,9 +4,6 @@ Author: lbsong
 Category: coding
 Tags: typescript
 
-
-# Run TypeScript in VS Code
-
 To run TypeScript file in VS Code, you have to 
 
 1. Install the extension [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
