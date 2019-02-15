@@ -33,3 +33,11 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+FOUNDATION_FRONT_PAGE_FULL_ARTICLES = False
+FOUNDATION_ALTERNATE_FONTS = False
+FOUNDATION_TAGS_IN_MOBILE_SIDEBAR = False
+FOUNDATION_NEW_ANALYTICS = False
+FOUNDATION_ANALYTICS_DOMAIN = ''
+FOUNDATION_FOOTER_TEXT = 'Powered by <a href="http://getpelican.com">Pelican</a> and <a href="http://foundation.zurb.com/">Zurb Foundation</a>. Theme by <a href="http://hamaluik.com">Kenton Hamaluik</a>.'
+FOUNDATION_PYGMENT_THEME = 'monokai'
