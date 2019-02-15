@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Lost In Code - Coding</title><link href="/" rel="alternate"></link><link href="/feeds/coding.atom.xml" rel="self"></link><id>/</id><updated>2019-02-14T19:18:00+08:00</updated><entry><title>Run TypeScript in VS Code</title><link href="/run-typescript-in-vs-code.html" rel="alternate"></link><published>2019-02-14T19:18:00+08:00</published><updated>2019-02-14T19:18:00+08:00</updated><author><name>lbsong</name></author><id>tag:None,2019-02-14:/run-typescript-in-vs-code.html</id><summary type="html">&lt;p&gt;To run TypeScript file in VS Code, you have to &lt;/p&gt;
-&lt;ol&gt;
+&lt;ul&gt;
 &lt;li&gt;Install the extension &lt;a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner"&gt;Code Runner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Install modules locally:&lt;/li&gt;
-&lt;li&gt;typescript: npm install --save-dev typescript&lt;/li&gt;
-&lt;li&gt;typescript-tools: npm install --save-dev typescript-tools&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Now, you can run .ts file in VS Code&lt;/p&gt;</summary><content type="html">&lt;p&gt;To run TypeScript file in VS Code, you have to &lt;/p&gt;
+&lt;li&gt;
+&lt;p&gt;Install modules locally:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Install the extension &lt;a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner"&gt;Code Runner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Install modules locally:&lt;/li&gt;
-&lt;li&gt;typescript: npm install --save-dev typescript&lt;/li&gt;
-&lt;li&gt;typescript-tools: npm install --save-dev typescript-tools&lt;/li&gt;
+&lt;li&gt;typescript: &lt;strong&gt;npm install --save-dev typescript&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;typescript-tools: &lt;strong&gt;npm install --save-dev typescript-tools&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Now, you can run .ts file in VS Code&lt;/p&gt;</content><category term="typescript"></category></entry></feed>
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now, you can press "CTRL-ALT-N" and run .ts file in VS Code&lt;/p&gt;</summary><content type="html">&lt;p&gt;To run TypeScript file in VS Code, you have to &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Install the extension &lt;a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner"&gt;Code Runner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Install modules locally:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;typescript: &lt;strong&gt;npm install --save-dev typescript&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;typescript-tools: &lt;strong&gt;npm install --save-dev typescript-tools&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now, you can press "CTRL-ALT-N" and run .ts file in VS Code&lt;/p&gt;</content><category term="typescript"></category></entry></feed>

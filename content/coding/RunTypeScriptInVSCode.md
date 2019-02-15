@@ -6,9 +6,10 @@ Tags: typescript
 
 To run TypeScript file in VS Code, you have to 
 
-1. Install the extension [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
-2. Install modules locally:
-- typescript: npm install --save-dev typescript
-- typescript-tools: npm install --save-dev typescript-tools
+* Install the extension [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+* Install modules locally:
+  
+    1. typescript: **npm install --save-dev typescript**
+    2. typescript-tools: **npm install --save-dev typescript-tools**
 
-Now, you can run .ts file in VS Code
+Now, you can press "CTRL-ALT-N" and run .ts file in VS Code
