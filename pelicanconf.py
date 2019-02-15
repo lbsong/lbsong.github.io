@@ -10,7 +10,9 @@ PATH = 'content'
 
 TIMEZONE = 'Asia/Shanghai'
 
-DEFAULT_LANG = 'English'
+DEFAULT_LANG = 'en-us'
+
+THEME = 'foundation-default-colours'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

@@ -1,7 +1,7 @@
 Title: Run TypeScript in VS Code
 Date: 2019-02-14 19:18
 Author: lbsong
-Category: coding
+Category: Coding
 Tags: typescript
 
 To run TypeScript file in VS Code, you have to 
